@@ -1,0 +1,43 @@
+.orange{
+  width: 90%;
+  height: 4%;
+  background-color:#F39017 ;
+  font-size: 16px;
+  color: white;
+  margin-left: 55px;
+
+}
+
+.navbar {
+  width: 95vw;
+  height: 100px;
+  background-color:#52A7F9;
+  font-size:30;
+  color: white;
+  margin: 15px;
+  word-spacing: 20;
+}
+
+.bodystylehead {
+  width: 90%;
+  height: 20%;
+  background-color:#DDDEE0;
+  font-size:30px;
+  color: #53585F;
+  padding: 10px;
+  padding-right: 10px;
+  padding-top: 15px;
+  margin-left: 55px;
+}
+
+.hello {
+  width: 90%;
+  height: 20%;
+  background-color:white;
+  font-size:16px;
+  color: #0465C0;
+  padding: 7px;
+  margin-left: 55px;
+  margin-top: 10px;
+
+}
